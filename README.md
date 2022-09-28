@@ -109,7 +109,7 @@ For your PR to count it must be:
   <img align="left" alt="Sunny's LinkdeIn" width="3%" style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>  
     
-<a href="https://www.instagram.com/ipec_acm_chapter/">
+<a href="https://instagram.com/geeksforgeeks_ipec?igshid=YmMyMTA2M2Y=">
   <img align="left" alt="Sunny's Instagram" width="3%" style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
     
