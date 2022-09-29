@@ -11,13 +11,12 @@
 
 ## Event details :
 
-- 20 Days of Open Source is a **20 Days long** event. It is organize by Trinity Cyber Forum & GFG IPEC Student Chapter.
+- 20 Days of Open Source is a **20 Days long** event. It is organized by Trinity Cyber Forum & GFG IPEC Student Chapter.
 - Every commit & pull request from a registered github profile will be counted as a valid contribution.
 - You have to make at least 1 contribution in 20 days.
 - Try to make good contributions instead of number of contributions.
 - Whoever makes most valid and good contributions will be declared as the winner.
 - Judgement criteria is shared on Discord.
-- On Monday Oct 5,2022 , there will be an introduction session for you all and details related to that will be shared soon.
 
 For your PR to count it must be:
 
@@ -44,23 +43,23 @@ For your PR to count it must be:
 - You can write solutions in C/C++/Java/Python/JS/etc... for Data Structure and Algorithms.
 - Follow file naming convention for all your pull requests.
 - While adding any content it should be inside its appropiate directory.
-- if there is any problem with inaccurate solution create an issue!
+- If there is any problem with inaccurate solution create an issue!
 
 ## How you can contribute to this repo
 
 - Repo contain folders of mostly used languages if not You may create.
--  You have to **add a folder** of your name in languge folder you are going to code.
--  You have to **add solution files** in your folder with proper defined question in `Comments` in starting of file and in readme.md of that folder.
-- you can **update existing solution** with a better one ( better complexity).
+- You have to **add a folder** of your name in languge folder you are going to code.
+- You have to **add solution files** in your folder with proper defined question in `Comments` in starting of file and in readme.md of that folder.
+- You can **update existing solution** with a better one ( better complexity).
 - Participants can even **add new Language** and solutions of their interest.
-- **solve issues** raised by other people or yourself.
+- **Solve issues** raised by other people or yourself.
 
 ## Steps For Contribution
 
     1. Fork this repo
     2. Star this repo
     3. Add a file ( txt/cpp ) inside appropriate folder
-    4. commit the code
+    4. Commit the code
     5. Make pull request
 
 ---
