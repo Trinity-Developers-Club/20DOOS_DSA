@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/83370198/192855885-517adeeb-7a45-4999-b647-eb1f38b2b3ff.jpeg" alt="poster" width="500" height="500" align="center">
+![20 DAYS OF OPEN SOURCE](https://user-images.githubusercontent.com/83370198/193411423-03f10a52-a199-4f5d-924b-34b399b2951c.gif)
 </p>
 <h1 align="center"> 20 Days Of Open Source </h1>
 
