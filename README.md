@@ -29,12 +29,6 @@ For your PR to count it must be:
 
 ---
 
-<h3 align="center">
-    <a href="https://discord.gg/CWF6vqbH">
-       Join Discord Conversation
-    </a>
-</h3>
-
 ---
 
 ## Rules To Contribute To This Repo
