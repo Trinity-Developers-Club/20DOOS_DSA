@@ -15,7 +15,6 @@
 - You have to make at least 1 contribution in 20 days.
 - Try to make good contributions instead of number of contributions.
 - Whoever makes most valid and good contributions will be declared as the winner.
-- Judgement criteria is shared on Discord.
 
 For your PR to count it must be:
 
